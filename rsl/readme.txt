@@ -1,0 +1,1 @@
+https://parsif.al/casvsv/metodologia-para-la-elicitacion-de-requisitos/
