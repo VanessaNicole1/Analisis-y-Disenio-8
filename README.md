@@ -3,4 +3,4 @@ El presente proyecto ha sido desarrollado por:
 - César Augusto Salazar Valdez
 - Daniel Alexander Patiño Vásquez
 - Vanessa Nicole Iñiguez Gualán
-- Brayan Collaguazo
+- Brayan Augusto Collaguazo Coronel
